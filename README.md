@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kurwaclown&label=Profile%20views&color=0e75b6&style=flat" alt="kurwaclown" /> </p>
 
-- 🔭 I’m currently working on [Kalus](github.com/KurwaClown/KALUS)
+- 🔭 I’m currently working on [Kalus](https://github.com/KurwaClown/KALUS)
 
 - 🌱 I’m currently a student at **Epitech**
 
